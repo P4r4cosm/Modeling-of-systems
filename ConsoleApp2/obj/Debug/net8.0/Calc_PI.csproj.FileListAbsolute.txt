@@ -1,0 +1,14 @@
+D:\C# projects\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Calc_PI.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Calc_PI.AssemblyInfoInputs.cache
+D:\C# projects\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Calc_PI.AssemblyInfo.cs
+D:\C# projects\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Calc_PI.csproj.CoreCompileInputs.cache
+D:\C# projects\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Calc_PI.exe
+D:\C# projects\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Calc_PI.deps.json
+D:\C# projects\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Calc_PI.runtimeconfig.json
+D:\C# projects\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Calc_PI.dll
+D:\C# projects\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Calc_PI.pdb
+D:\C# projects\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Calc_PI.dll
+D:\C# projects\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\refint\Calc_PI.dll
+D:\C# projects\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Calc_PI.pdb
+D:\C# projects\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Calc_PI.genruntimeconfig.cache
+D:\C# projects\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ref\Calc_PI.dll
