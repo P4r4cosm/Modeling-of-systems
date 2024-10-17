@@ -12,3 +12,4 @@ D:\C# projects\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\refint\Calc_PI.dll
 D:\C# projects\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Calc_PI.pdb
 D:\C# projects\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Calc_PI.genruntimeconfig.cache
 D:\C# projects\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ref\Calc_PI.dll
+D:\C# projects\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Calc_PI.sourcelink.json
