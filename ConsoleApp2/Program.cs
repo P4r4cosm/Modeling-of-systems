@@ -1,4 +1,4 @@
-﻿using Calc_PI;
+﻿
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 namespace ConsoleApp2
@@ -176,22 +176,12 @@ namespace ConsoleApp2
                 Console.WriteLine($"Eps_S_e{4 + i}: {arr[i]}");
             }
         }
+       
+        
+        
+        
         static void Main()
         {
-            var rand=new RandomNumberGenerator(22695477,1,(long)Math.Pow(2,32),1);
-            int a = 10;
-            double[]array_1=rand.GenerateArray(size:a*=10, seed:1, min:0, max:10);
-            double[] array_2 =rand.GenerateArray(size: a *= 10, seed: 1, min: 0, max: 10);
-            double[] array_3 =rand.GenerateArray(size: a *= 10, seed: 1, min: 0, max: 10);
-            double[] array_4 =rand.GenerateArray(size: a *= 10, seed: 1, min: 0, max: 10);
-            //Console.WriteLine("array_1      array_2         array_3         array_4");
-            //for (int i = 0, j=0,z=0,d=0; i < array_4.Length; i++)
-            //{
-            //    Console.WriteLine($"{array_1[j]}   {array_2[z]}   {array_3[d]}   {array_4[i]}");
-            //    j = j < array_1.Length-1 ? ++j : j;
-            //    z=z < array_2.Length-1 ? ++z : z;
-            //    d=  d < array_3.Length-1 ? ++d : d;
-            //}
         }
     }
 }

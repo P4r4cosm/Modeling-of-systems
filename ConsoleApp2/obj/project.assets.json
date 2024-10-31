@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# projects\\ConsoleApp2\\ConsoleApp2\\Calc_PI.csproj",
-      "projectName": "Calc_PI",
-      "projectPath": "D:\\C# projects\\ConsoleApp2\\ConsoleApp2\\Calc_PI.csproj",
+      "projectUniqueName": "D:\\C# projects\\ConsoleApp2\\ConsoleApp2\\Task1.csproj",
+      "projectName": "Task1",
+      "projectPath": "D:\\C# projects\\ConsoleApp2\\ConsoleApp2\\Task1.csproj",
       "packagesPath": "C:\\Users\\f1nig\\.nuget\\packages\\",
       "outputPath": "D:\\C# projects\\ConsoleApp2\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",
