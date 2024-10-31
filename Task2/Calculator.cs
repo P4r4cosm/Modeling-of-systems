@@ -8,6 +8,10 @@ namespace Calc_PI
 {
     public class Calculator
     {
+        public static double Calculate(double theorValue, double value)
+        {
+            return Math.Abs((theorValue - value) / theorValue) * 100;
+        }
         public static Dictionary<string, double> CalcPeriod(double[] array)
         {
             int n = array.Length;

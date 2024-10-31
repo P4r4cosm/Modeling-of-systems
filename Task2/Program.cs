@@ -37,19 +37,19 @@ public class Program
         Console.WriteLine($"Дисперсия 4: {array_4Dispersion}");
         Console.WriteLine();
         //Погрешность Ожидания: 
-        double faultarray_1Ex = FaultCalculator.Calculate(TheorExpectation, array_1Expectation);
-        double faultarray_2Ex = FaultCalculator.Calculate(TheorExpectation, array_2Expectation);
-        double faultarray_3Ex = FaultCalculator.Calculate(TheorExpectation, array_3Expectation);
-        double faultarray_4Ex = FaultCalculator.Calculate(TheorExpectation, array_4Expectation);
+        double faultarray_1Ex = Calculator.Calculate(TheorExpectation, array_1Expectation);
+        double faultarray_2Ex = Calculator.Calculate(TheorExpectation, array_2Expectation);
+        double faultarray_3Ex = Calculator.Calculate(TheorExpectation, array_3Expectation);
+        double faultarray_4Ex = Calculator.Calculate(TheorExpectation, array_4Expectation);
         Console.WriteLine($"Погрешность ожидания 1: {faultarray_1Ex}");
         Console.WriteLine($"Погрешность ожидания 2: {faultarray_2Ex}");
         Console.WriteLine($"Погрешность ожидания 3: {faultarray_3Ex}");
         Console.WriteLine($"Погрешность ожидания 4: {faultarray_4Ex}");
         //Погрешность Дисперсии: 
-        double faultarray_1Dis = FaultCalculator.Calculate(TheorDispersion, array_1Dispersion);
-        double faultarray_2Dis = FaultCalculator.Calculate(TheorDispersion, array_2Dispersion);
-        double faultarray_3Dis = FaultCalculator.Calculate(TheorDispersion, array_3Dispersion);
-        double faultarray_4Dis = FaultCalculator.Calculate(TheorDispersion, array_4Dispersion);
+        double faultarray_1Dis = Calculator.Calculate(TheorDispersion, array_1Dispersion);
+        double faultarray_2Dis = Calculator.Calculate(TheorDispersion, array_2Dispersion);
+        double faultarray_3Dis = Calculator.Calculate(TheorDispersion, array_3Dispersion);
+        double faultarray_4Dis = Calculator.Calculate(TheorDispersion, array_4Dispersion);
         Console.WriteLine($"Погрешность дисперсии 1: {faultarray_1Dis}");
         Console.WriteLine($"Погрешность дисперсии 2: {faultarray_2Dis}");
         Console.WriteLine($"Погрешность дисперсии 3: {faultarray_3Dis}");

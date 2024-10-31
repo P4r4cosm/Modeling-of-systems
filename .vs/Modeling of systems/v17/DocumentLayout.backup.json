@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\C# projects\\ConsoleApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41B5FA33-8C03-4053-B238-E7097E672B37}|Task2\\Task2.csproj|d:\\c# projects\\consoleapp2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41B5FA33-8C03-4053-B238-E7097E672B37}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41B5FA33-8C03-4053-B238-E7097E672B37}|Task2\\Task2.csproj|d:\\c# projects\\consoleapp2\\task2\\histogrammdrawler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41B5FA33-8C03-4053-B238-E7097E672B37}|Task2\\Task2.csproj|solutionrelative:task2\\histogrammdrawler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41B5FA33-8C03-4053-B238-E7097E672B37}|Task2\\Task2.csproj|d:\\c# projects\\consoleapp2\\task2\\randomnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B5FA33-8C03-4053-B238-E7097E672B37}|Task2\\Task2.csproj|solutionrelative:task2\\randomnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41B5FA33-8C03-4053-B238-E7097E672B37}|Task2\\Task2.csproj|d:\\c# projects\\consoleapp2\\task2\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41B5FA33-8C03-4053-B238-E7097E672B37}|Task2\\Task2.csproj|solutionrelative:task2\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41B5FA33-8C03-4053-B238-E7097E672B37}|Task2\\Task2.csproj|d:\\c# projects\\consoleapp2\\task2\\randomnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41B5FA33-8C03-4053-B238-E7097E672B37}|Task2\\Task2.csproj|solutionrelative:task2\\randomnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41B5FA33-8C03-4053-B238-E7097E672B37}|Task2\\Task2.csproj|d:\\c# projects\\consoleapp2\\task2\\histogrammdrawler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B5FA33-8C03-4053-B238-E7097E672B37}|Task2\\Task2.csproj|solutionrelative:task2\\histogrammdrawler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B5FA33-8C03-4053-B238-E7097E672B37}|Task2\\Task2.csproj|d:\\c# projects\\consoleapp2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B5FA33-8C03-4053-B238-E7097E672B37}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41B5FA33-8C03-4053-B238-E7097E672B37}|Task2\\Task2.csproj|d:\\c# projects\\consoleapp2\\task2\\mathexpectation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "RandomNumberGenerator.cs",
               "DocumentMoniker": "D:\\C# projects\\ConsoleApp2\\Task2\\RandomNumberGenerator.cs",
               "RelativeDocumentMoniker": "Task2\\RandomNumberGenerator.cs",
@@ -59,20 +59,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Calculator.cs",
               "DocumentMoniker": "D:\\C# projects\\ConsoleApp2\\Task2\\Calculator.cs",
               "RelativeDocumentMoniker": "Task2\\Calculator.cs",
               "ToolTip": "D:\\C# projects\\ConsoleApp2\\Task2\\Calculator.cs",
               "RelativeToolTip": "Task2\\Calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T15:23:17.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T15:23:17.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HistogrammDrawler.cs",
               "DocumentMoniker": "D:\\C# projects\\ConsoleApp2\\Task2\\HistogrammDrawler.cs",
               "RelativeDocumentMoniker": "Task2\\HistogrammDrawler.cs",
@@ -80,21 +79,19 @@
               "RelativeToolTip": "Task2\\HistogrammDrawler.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T14:50:02.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T14:50:02.646Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C# projects\\ConsoleApp2\\Task2\\Program.cs",
               "RelativeDocumentMoniker": "Task2\\Program.cs",
               "ToolTip": "D:\\C# projects\\ConsoleApp2\\Task2\\Program.cs",
               "RelativeToolTip": "Task2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T14:37:49.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T14:37:49.219Z"
             }
           ]
         }
