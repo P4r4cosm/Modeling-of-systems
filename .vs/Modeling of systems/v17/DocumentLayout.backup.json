@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\C# projects\\ConsoleApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD4CA657-9C0D-48AE-9DC7-2B3540A42B47}|Taks3\\Taks3.csproj|d:\\c# projects\\consoleapp2\\taks3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD4CA657-9C0D-48AE-9DC7-2B3540A42B47}|Taks3\\Taks3.csproj|solutionrelative:taks3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41B5FA33-8C03-4053-B238-E7097E672B37}|Task2\\Task2.csproj|d:\\c# projects\\consoleapp2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41B5FA33-8C03-4053-B238-E7097E672B37}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41B5FA33-8C03-4053-B238-E7097E672B37}|Task2\\Task2.csproj|d:\\c# projects\\consoleapp2\\task2\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41B5FA33-8C03-4053-B238-E7097E672B37}|Task2\\Task2.csproj|solutionrelative:task2\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BDC66E0-AC74-42C5-ABD1-A894AC041C66}|Task4\\Task4.csproj|d:\\c# projects\\consoleapp2\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDC66E0-AC74-42C5-ABD1-A894AC041C66}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41B5FA33-8C03-4053-B238-E7097E672B37}|Task2\\Task2.csproj|d:\\c# projects\\consoleapp2\\task2\\histogrammdrawler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,58 +18,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Calculator.cs",
-              "DocumentMoniker": "D:\\C# projects\\ConsoleApp2\\Task2\\Calculator.cs",
-              "RelativeDocumentMoniker": "Task2\\Calculator.cs",
-              "ToolTip": "D:\\C# projects\\ConsoleApp2\\Task2\\Calculator.cs",
-              "RelativeToolTip": "Task2\\Calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:44:25.956Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "HistogrammDrawler.cs",
               "DocumentMoniker": "D:\\C# projects\\ConsoleApp2\\Task2\\HistogrammDrawler.cs",
               "RelativeDocumentMoniker": "Task2\\HistogrammDrawler.cs",
               "ToolTip": "D:\\C# projects\\ConsoleApp2\\Task2\\HistogrammDrawler.cs",
               "RelativeToolTip": "Task2\\HistogrammDrawler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:16:31.635Z",
+              "WhenOpened": "2024-12-03T13:09:34.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C# projects\\ConsoleApp2\\Taks3\\Program.cs",
-              "RelativeDocumentMoniker": "Taks3\\Program.cs",
-              "ToolTip": "D:\\C# projects\\ConsoleApp2\\Taks3\\Program.cs*",
-              "RelativeToolTip": "Taks3\\Program.cs*",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAJQAAAB0AAAAAAAAAA==",
+              "DocumentMoniker": "D:\\C# projects\\ConsoleApp2\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "D:\\C# projects\\ConsoleApp2\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAIwPAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T16:36:48.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C# projects\\ConsoleApp2\\Task2\\Program.cs",
-              "RelativeDocumentMoniker": "Task2\\Program.cs",
-              "ToolTip": "D:\\C# projects\\ConsoleApp2\\Task2\\Program.cs",
-              "RelativeToolTip": "Task2\\Program.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAgwEgAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T10:48:11.168Z",
+              "WhenOpened": "2024-12-03T10:25:44.936Z",
               "EditorCaption": ""
             }
           ]
